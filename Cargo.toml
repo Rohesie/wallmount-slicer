@@ -1,0 +1,14 @@
+[package]
+name = "wallmount-slicer"
+version = "0.1.0"
+authors = ["Rohesie <rohesie@gmail.com>"]
+edition = "2018"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+dmi = { git = "https://github.com/Rohesie/dmi" }
+anyhow = "1.0.34"
+image = "0.23.6"
+yaml-rust = "0.4.4"
+dont_disappear = "3.0.1"

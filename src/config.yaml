@@ -1,0 +1,10 @@
+x_step: 32
+y_step: 32
+north_start_x: 64
+north_start_y: 8
+east_start_x: 117
+east_start_y: 48
+south_start_x: 64
+south_start_y: 93
+west_start_x: 11
+west_start_y: 49
